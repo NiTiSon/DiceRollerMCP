@@ -8,7 +8,7 @@ The server uses the Streamable HTTP transport, so any MCP client that supports r
 ### Claude
 1. Open Settings → Connectors.
 1. Choose Add custom connector.
-1. Enter the URL: https://dice-roller-mcp.vercel.app/api/mcp
+1. Enter the URL: `https://dice-roller-mcp.vercel.app/api/mcp`
 1. Save, then ask Claude something like "Roll 3d6" or "Pick a random number between 1 and 100."
 
 ### Opencode
